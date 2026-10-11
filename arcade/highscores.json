@@ -1,0 +1,90 @@
+{
+  "invaders": [
+    {
+      "name": "CPU",
+      "score": 3000
+    },
+    {
+      "name": "ZED",
+      "score": 2000
+    },
+    {
+      "name": "KAT",
+      "score": 1200
+    },
+    {
+      "name": "AZA",
+      "score": 900
+    },
+    {
+      "name": "BOB",
+      "score": 800
+    }
+  ],
+  "drift": [
+    {
+      "name": "AZA",
+      "score": 7239
+    },
+    {
+      "name": "CPU",
+      "score": 6500
+    },
+    {
+      "name": "ZED",
+      "score": 5200
+    },
+    {
+      "name": "KAT",
+      "score": 4200
+    },
+    {
+      "name": "BOB",
+      "score": 3200
+    }
+  ],
+  "breakout": [
+    {
+      "name": "CPU",
+      "score": 3000
+    },
+    {
+      "name": "ZED",
+      "score": 2000
+    },
+    {
+      "name": "KAT",
+      "score": 1200
+    },
+    {
+      "name": "BOB",
+      "score": 800
+    },
+    {
+      "name": "ZAA",
+      "score": 510
+    }
+  ],
+  "rally": [
+    {
+      "name": "AAA",
+      "score": 4612
+    },
+    {
+      "name": "CPU",
+      "score": 3000
+    },
+    {
+      "name": "ZED",
+      "score": 2000
+    },
+    {
+      "name": "KAT",
+      "score": 1200
+    },
+    {
+      "name": "BOB",
+      "score": 800
+    }
+  ]
+}
